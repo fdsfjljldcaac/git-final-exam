@@ -1,6 +1,3 @@
 - Git giúp quản lý mã nguồn dễ dàng hơn
 - Git hỗ trợ làm việc nhóm hiệu quả
 - Git giúp theo dõi lịch sử thay đổi rõ ràng
-
-- Git rất mạnh mẽ nhưng cần luyện tập nhiều
-- Git là công cụ quan trọng trong phát triển phần mềm hiện đại
