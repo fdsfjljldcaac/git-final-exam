@@ -13,8 +13,13 @@
 8. Dành thời gian đọc tài liệu Git chính thức.
 9. Làm mini project quản lý mã nguồn.
 10. Tổng kết và báo cáo kết quả học tập.
+<<<<<<< Updated upstream
 Ngày 4: Thực hành pull request
 Ngày 5: Tổng kết và đánh giá
 Ngày 1: Ôn Git basics
 Ngày 2: Thực hành branch và merge
 Ngày 3: Học rebase và conflict resolution
+=======
+Ngày 6: Thực hành pull request
+Ngày 7: Tổng kết và đánh giá
+>>>>>>> Stashed changes
