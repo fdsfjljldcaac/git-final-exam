@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống gợi ý sách
+1. Người dùng sẽ nhận được đề xuất dựa trên lịch sử mua hàng.
+2. Tích hợp thuật toán học máy cơ bản.
+3. Hiển thị danh sách sách gợi ý trên trang chủ.
+4. Cập nhật tự động khi người dùng mua sách mới.
+5. Cho phép người dùng đánh giá độ chính xác của gợi ý.
