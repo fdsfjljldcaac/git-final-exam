@@ -1,0 +1,24 @@
+Giới thiệu cá nhân:
+Tôi tên là Kiến Thành Long.  
+Tôi hiện đang là sinh viên tại Trường đại học Nam Cần Thơ.  
+MSSV của tôi là 221909.  
+Tôi có niềm đam mê với Công nghệ Thông tin.  
+Tôi mong muốn trở thành một lập trình viên giỏi.
+
+Sở thích:
+1. Đọc sách
+2. Chơi thể thao
+3. Nghe nhạc
+
+Kỹ năng:
+1. Lập trình C#
+2. Làm việc nhóm
+3. Thuyết trình
+
+
+Kế hoạch học tập:
+- Hoàn thành tất cả các môn chuyên ngành đúng hạn.
+- Nắm vững kiến thức về Git và quản lý mã nguồn.
+- Rèn luyện kỹ năng lập trình với C#, Java, Python.
+- Tham gia các dự án thực tế để tích lũy kinh nghiệm.
+- Cải thiện tiếng Anh chuyên ngành công nghệ thông tin.
